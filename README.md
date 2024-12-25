@@ -19,7 +19,6 @@ Hardware – PCs, Cyclone II , USB flasher
 **Logic Diagram**
 
 **Procedure**
-
 1.	Type the program in Quartus software.
 
 2.	Compile and run the program.
