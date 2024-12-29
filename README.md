@@ -44,18 +44,20 @@ endmodule
 Developed by:Yugabharathi .T RegisterNumber:24900006
 
 **Truth table:**
+
+
 ![392007889-b2e6f509-64de-444c-a5fa-e40898d2b160](https://github.com/user-attachments/assets/830058ab-a0c3-4731-96e2-f6705a60d6c3)
 ![392007968-0ff0cc8d-a388-4297-ac03-7771303160b7](https://github.com/user-attachments/assets/330bf3e8-b001-4253-962a-f10308e62406)
 
 **RTL realization**
-![383127164-67542647-c6fb-4065-9d0f-0ce48d11cae0](https://github.com/user-attachments/assets/22905d4c-1d08-4adf-9d0d-c84dcd997db1)
 
-**Output:**
+![Screenshot 2024-12-29 175319](https://github.com/user-attachments/assets/528dc534-5a96-468f-8760-1799f7968c42)
 
-**RTL**
-![387574673-4bfc069b-5f93-4d1a-b89d-8529cbe889b7](https://github.com/user-attachments/assets/eacca589-e4cf-4e39-9cc7-3976648814bf)
 
 **Timing Diagram**
+
+![Screenshot 2024-12-29 175336](https://github.com/user-attachments/assets/2727d679-298b-4bef-ac98-c682870ec988)
+
 
 **Result:**
 
